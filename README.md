@@ -18,6 +18,21 @@ python3 -m mitoinstaller install
 deactivate
 
 
+############# windows install virtual environment ############3
+
+pip install virtualenv
+
+virtualenv env_name
+
+env_name\Scripts\activate
+
+
+deactivate
+
+
+
+
+
 
 
 
