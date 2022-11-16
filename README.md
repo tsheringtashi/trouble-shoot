@@ -30,7 +30,9 @@ env_name\Scripts\activate
 deactivate
 
 
+################ when pip is not installing in pycharm
 
+sudo apt install python3.9-distutils
 
 
 
